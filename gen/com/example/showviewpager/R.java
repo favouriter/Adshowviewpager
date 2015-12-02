@@ -21,19 +21,18 @@ public final class R {
         public static final int activity_vertical_margin=0x7f040001;
     }
     public static final class drawable {
-        public static final int ic_launcher=0x7f020000;
-        public static final int pic1=0x7f020001;
-        public static final int pic2=0x7f020002;
-        public static final int pic3=0x7f020003;
-        public static final int pic4=0x7f020004;
+        public static final int en_rb=0x7f020000;
+        public static final int ic_launcher=0x7f020001;
+        public static final int pic1=0x7f020002;
+        public static final int pic2=0x7f020003;
+        public static final int pic3=0x7f020004;
+        public static final int pic4=0x7f020005;
+        public static final int un_rb=0x7f020006;
     }
     public static final class id {
-        public static final int action_settings=0x7f080006;
+        public static final int action_settings=0x7f080003;
         public static final int adshowpager=0x7f080000;
-        public static final int curtgroup=0x7f080002;
-        public static final int radio0=0x7f080003;
-        public static final int radio1=0x7f080004;
-        public static final int radio2=0x7f080005;
+        public static final int point=0x7f080002;
         public static final int showpager=0x7f080001;
     }
     public static final class layout {
@@ -72,7 +71,6 @@ public final class R {
          */
         public static final int AppBaseTheme=0x7f060000;
         /**  Application theme. 
- All customizations that are NOT specific to a particular API-level can go here. 
          */
         public static final int AppTheme=0x7f060001;
     }
